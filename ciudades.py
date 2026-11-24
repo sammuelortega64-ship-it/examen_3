@@ -1,6 +1,7 @@
-# Programa que imprime ciudades colombianas
-print ("Cali")
-print ("Medellin")
+# Programa que imprime ciudades colombianas 
 print ("Bogota")
-print ("Armenia")
+print ("Medellin")
+print ( "Armenia")
+print ("Cartagena")
+print ("Pereira")
 
