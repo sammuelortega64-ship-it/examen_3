@@ -18,3 +18,9 @@
 | git pull | Trae los cambios de GitHub | git pull origin main |
 
 ¡Aprendí mucho en este curso! :tada:
+
+##Ejemplo de python 
+```python
+for ciudad in ["Cali", "Pasto"]:
+    print (ciudad)
+```
