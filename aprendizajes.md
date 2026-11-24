@@ -19,7 +19,7 @@
 
 ¡Aprendí mucho en este curso! :tada:
 
-##Ejemplo de python 
+## Ejemplo de python 
 ```python
 for ciudad in ["Cali", "Pasto"]:
     print (ciudad)
